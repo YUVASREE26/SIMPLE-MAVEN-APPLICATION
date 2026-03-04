@@ -26,4 +26,8 @@ public class App {
         System.out.println("Marks: " + marks);
         System.out.println("Grade: " + grade);
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 95d60d690a94f02406555e2b626dde74cc9dc8fe

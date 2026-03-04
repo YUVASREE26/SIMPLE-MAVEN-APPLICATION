@@ -36,4 +36,3 @@ public class AppTest {
             App.calculateGrade(150);
         });
     }
-}
