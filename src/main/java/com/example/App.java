@@ -3,7 +3,7 @@ package com.example;
 public class App {
 
     public static String calculateGrade(int marks) {
-        if (marks < 0 || marks > 100) {
+        if (marks < 0 || marks > 100) { 
             throw new IllegalArgumentException("Marks should be between 0 and 100");
         }
 
